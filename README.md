@@ -146,23 +146,6 @@ Save job and run it, then the job will start itself after the push to github
 sudo docker exec mysql-server-container mysql -u root --password=31xLobOJO4fFUKE62oOFA8ev1jhFRq -e "create database devops_finaltask_db;"
 ```
 
+Web application
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![my web app](images/my_site_for_CICD.png)
